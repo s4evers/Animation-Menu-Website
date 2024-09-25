@@ -1,5 +1,4 @@
-# Animation-Menu-Website
-Красивый меню с анимацией.
+**Красивый меню с анимацией.**
 
 # Подписывайте:
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/cs.mer6)
